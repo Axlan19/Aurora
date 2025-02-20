@@ -3,7 +3,7 @@ import time
 import threading
 import datetime
 from time import perf_counter
-token = 'bRuh_69fUcK420YoU_eaTAsSSucKdiCk6969'
+token = 'token'
 uno = False
 cah = False
 oneVone = False
